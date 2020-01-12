@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\( USERNAME )\\Documents\\GitHub\\r284\\Reddit2Gener8aVideo4\\Reddit2Gener8aVideo4.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\( USERNAME )\\Documents\\GitHub\\r284\\Reddit2Gener8aVideo4\\Reddit2Gener8aVideo4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\( USERNAME )\\Documents\\GitHub\\r284\\Reddit2Gener8aVideo4\\Reddit2Gener8aVideo4.csproj",
+        "projectName": "Reddit2Gener8aVideo4",
+        "projectPath": "C:\\Users\\( USERNAME )\\Documents\\GitHub\\r284\\Reddit2Gener8aVideo4\\Reddit2Gener8aVideo4.csproj",
+        "packagesPath": "C:\\Users\\( USERNAME )\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\( USERNAME )\\Documents\\GitHub\\r284\\Reddit2Gener8aVideo4\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\( USERNAME )\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

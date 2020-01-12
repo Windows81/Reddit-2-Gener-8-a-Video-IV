@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Reddit2Gener8aVideo4/1.0.0": {
+        "runtime": {
+          "Reddit2Gener8aVideo4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reddit2Gener8aVideo4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
